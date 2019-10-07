@@ -1,6 +1,7 @@
 <resources>
     <string name="app_name">MyGate</string>
-    <string name="tab_text_1">Tab 1</string>
-    <string name="tab_text_2">Tab 2</string>
-    <string name="tab_text_3">Tab 3</string>
+    <string name="tab_text_1">Activity</string>
+    <string name="tab_text_2">HouseHold</string>
+    <string name="tab_text_3">Community</string>
+    <string name="app_header_info">CEDAR G-101\nBM Magnolia Park</string>
 </resources>
