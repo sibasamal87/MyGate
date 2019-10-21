@@ -4,4 +4,22 @@
     <string name="tab_text_2">HouseHold</string>
     <string name="tab_text_3">Community</string>
     <string name="app_header_info">CEDAR G-101\nBM Magnolia Park</string>
+    <string name="login_mobno_lebel">Mobile Number</string>
+    <string name="login_password_lebel">Password</string>
+    <string name="login_button_lebel">Login</string>
+    <string name="login_registration_lebel">Registration</string>
+    <string name="login_welcome_lebel">Welcome to BM Magnolia Park</string>
+    <string name="title_activity_login">Sign in</string>
+    <string name="prompt_email">Email</string>
+    <string name="prompt_password">Password</string>
+    <string name="action_sign_in">Sign in</string>
+    <string name="action_register">Register</string>
+    <string name="action_sign_in_short">Sign in</string>
+    <string name="welcome">"Welcome !"</string>
+    <string name="invalid_username">Not a valid username</string>
+    <string name="invalid_password">Password must be >5 characters</string>
+    <string name="login_failed">"Login failed"</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>

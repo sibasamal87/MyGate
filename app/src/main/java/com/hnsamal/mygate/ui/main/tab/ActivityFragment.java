@@ -17,6 +17,7 @@ import com.hnsamal.mygate.R;
 public class ActivityFragment extends Fragment {
 
     private ActivityViewModel mViewModel;
+    private ActivityFragment activityFragment;
 
     public static ActivityFragment newInstance() {
         return new ActivityFragment();

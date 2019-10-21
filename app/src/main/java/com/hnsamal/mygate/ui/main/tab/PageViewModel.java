@@ -1,4 +1,4 @@
-package com.hnsamal.mygate.ui.main;
+package com.hnsamal.mygate.ui.main.tab;
 
 import androidx.arch.core.util.Function;
 import androidx.lifecycle.LiveData;
