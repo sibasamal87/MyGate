@@ -6,8 +6,6 @@ import android.os.Bundle;
 import com.hnsamal.mygate.ui.main.login.LoginFragment;
 
 import androidx.appcompat.app.AppCompatActivity;
-import androidx.navigation.NavController;
-import androidx.navigation.Navigation;
 
 public class MainActivity extends AppCompatActivity implements LoginFragment.OnFragmentInteractionListener {
 
@@ -26,4 +24,5 @@ public class MainActivity extends AppCompatActivity implements LoginFragment.OnF
     public void onFragmentInteraction(Uri uri) {
 
     }
+
 }
